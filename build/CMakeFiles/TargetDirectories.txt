@@ -1,0 +1,5 @@
+C:/Users/Ricardo/Desktop/cpp/EC8-Patrones/build/CMakeFiles/expenses_app.dir
+C:/Users/Ricardo/Desktop/cpp/EC8-Patrones/build/CMakeFiles/expenses_tests.dir
+C:/Users/Ricardo/Desktop/cpp/EC8-Patrones/build/CMakeFiles/test.dir
+C:/Users/Ricardo/Desktop/cpp/EC8-Patrones/build/CMakeFiles/edit_cache.dir
+C:/Users/Ricardo/Desktop/cpp/EC8-Patrones/build/CMakeFiles/rebuild_cache.dir

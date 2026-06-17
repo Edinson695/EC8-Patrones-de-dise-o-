@@ -1,0 +1,5 @@
+# ninja log v6
+4	1369	8034334346852858	CMakeFiles/expenses_app.dir/src/main.cpp.obj	41a93fd8276ff86a
+20	2096	8034334347008004	CMakeFiles/expenses_tests.dir/tests/test_expenses.cpp.obj	b0021401c7baf313
+1377	2145	8034334360551944	expenses_app.exe	d7dc5967ed1a52e9
+2103	2900	8034334367814226	expenses_tests.exe	c4b3fb00eb21a681
